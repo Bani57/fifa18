@@ -1,0 +1,207 @@
+CLUBS FROM THE STRONGEST 5 LEAGUES, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. Real Madrid CF - Average overall: 0.803125
+2. Juventus - Average overall: 0.795833
+3. FC Bayern Munich - Average overall: 0.795833
+4. FC Barcelona - Average overall: 0.793750
+5. Chelsea - Average overall: 0.779167
+6. Manchester United - Average overall: 0.770833
+7. Paris Saint-Germain - Average overall: 0.767708
+8. Atletico Madrid - Average overall: 0.763542
+9. Manchester City - Average overall: 0.760417
+10. Arsenal - Average overall: 0.753125
+11. Tottenham Hotspur - Average overall: 0.743750
+12. Borussia Dortmund - Average overall: 0.742708
+13. Liverpool - Average overall: 0.723958
+14. Napoli - Average overall: 0.720833
+15. Roma - Average overall: 0.714583
+16. Everton - Average overall: 0.704167
+17. Sevilla FC - Average overall: 0.698958
+18. Milan - Average overall: 0.693750
+19. AS Monaco - Average overall: 0.691667
+20. Villarreal CF - Average overall: 0.690625
+21. Inter - Average overall: 0.687500
+22. Athletic Club de Bilbao - Average overall: 0.682292
+23. Lazio - Average overall: 0.680208
+24. Real Sociedad - Average overall: 0.672917
+25. West Ham United - Average overall: 0.670833
+26. Bayer 04 Leverkusen - Average overall: 0.665625
+27. Borussia Monchengladbach - Average overall: 0.661458
+28. RCD Espanyol - Average overall: 0.657292
+29. Olympique de Marseille - Average overall: 0.655208
+30. Valencia CF - Average overall: 0.654167
+31. FC Schalke 04 - Average overall: 0.652083
+32. Southampton - Average overall: 0.651042
+33. VfL Wolfsburg - Average overall: 0.650000
+34. Leicester City - Average overall: 0.647917
+35. Watford - Average overall: 0.646875
+36. TSG 1899 Hoffenheim - Average overall: 0.643750
+37. OGC Nice - Average overall: 0.640625
+38. West Bromwich Albion - Average overall: 0.638542
+39. Fiorentina - Average overall: 0.636458
+40. Stoke City - Average overall: 0.636458
+41. SD Eibar - Average overall: 0.635417
+42. RB Leipzig - Average overall: 0.634375
+43. Torino - Average overall: 0.634375
+44. RC Deportivo de La Coruna - Average overall: 0.632292
+45. UD Las Palmas - Average overall: 0.630208
+46. Hertha BSC Berlin - Average overall: 0.626042
+47. RC Celta de Vigo - Average overall: 0.626042
+48. Olympique Lyonnais - Average overall: 0.625000
+49. Swansea City - Average overall: 0.622917
+50. Eintracht Frankfurt - Average overall: 0.622917
+51. 1. FC Koln - Average overall: 0.621875
+52. Malaga CF - Average overall: 0.620833
+53. Real Betis Balompie - Average overall: 0.618750
+54. Crystal Palace - Average overall: 0.616667
+55. Sassuolo - Average overall: 0.609375
+56. 1. FSV Mainz 05 - Average overall: 0.608333
+57. SV Werder Bremen - Average overall: 0.606250
+58. Burnley - Average overall: 0.605208
+59. Bournemouth - Average overall: 0.605208
+60. CD Leganes - Average overall: 0.601042
+61. Newcastle United - Average overall: 0.601042
+62. Chievo Verona - Average overall: 0.600000
+63. Deportivo Alaves - Average overall: 0.598958
+64. Atalanta - Average overall: 0.598958
+65. Genoa - Average overall: 0.597917
+66. Bologna - Average overall: 0.596875
+67. Girondins de Bordeaux - Average overall: 0.592708
+68. Sampdoria - Average overall: 0.591667
+69. AS Saint-Etienne - Average overall: 0.591667
+70. FC Augsburg - Average overall: 0.590625
+71. Udinese - Average overall: 0.588542
+72. Hamburger SV - Average overall: 0.588542
+73. Girona CF - Average overall: 0.587500
+74. Levante UD - Average overall: 0.584375
+75. Brighton & Hove Albion - Average overall: 0.583333
+76. Toulouse FC - Average overall: 0.581250
+77. Hannover 96 - Average overall: 0.579167
+78. FC Nantes - Average overall: 0.577083
+79. Getafe CF - Average overall: 0.569792
+80. VfB Stuttgart - Average overall: 0.569792
+81. Angers SCO - Average overall: 0.569792
+82. Stade Rennais FC - Average overall: 0.567708
+83. Cagliari - Average overall: 0.565625
+84. En Avant de Guingamp - Average overall: 0.560417
+85. Montpellier Herault SC - Average overall: 0.553125
+86. SC Freiburg - Average overall: 0.552083
+87. Huddersfield Town - Average overall: 0.550000
+88. SM Caen - Average overall: 0.546875
+89. Amiens SC Football - Average overall: 0.543750
+90. Dijon FCO - Average overall: 0.540625
+91. LOSC Lille - Average overall: 0.539583
+92. Ferrara (SPAL) - Average overall: 0.537500
+93. Hellas Verona - Average overall: 0.534375
+94. FC Metz - Average overall: 0.531250
+95. Benevento Calcio - Average overall: 0.526042
+96. RC Strasbourg - Average overall: 0.515625
+97. Crotone - Average overall: 0.493750
+98. ES Troyes AC - Average overall: 0.493750
+
+CLUBS FROM German Bundesliga, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. FC Bayern Munich - Average overall: 0.795833
+2. Borussia Dortmund - Average overall: 0.742708
+3. Bayer 04 Leverkusen - Average overall: 0.665625
+4. Borussia Monchengladbach - Average overall: 0.661458
+5. FC Schalke 04 - Average overall: 0.652083
+6. VfL Wolfsburg - Average overall: 0.650000
+7. TSG 1899 Hoffenheim - Average overall: 0.643750
+8. RB Leipzig - Average overall: 0.634375
+9. Hertha BSC Berlin - Average overall: 0.626042
+10. Eintracht Frankfurt - Average overall: 0.622917
+11. 1. FC Koln - Average overall: 0.621875
+12. 1. FSV Mainz 05 - Average overall: 0.608333
+13. SV Werder Bremen - Average overall: 0.606250
+14. FC Augsburg - Average overall: 0.590625
+15. Hamburger SV - Average overall: 0.588542
+16. Hannover 96 - Average overall: 0.579167
+17. VfB Stuttgart - Average overall: 0.569792
+18. SC Freiburg - Average overall: 0.552083
+
+CLUBS FROM French Ligue 1, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. Paris Saint-Germain - Average overall: 0.767708
+2. AS Monaco - Average overall: 0.691667
+3. Olympique de Marseille - Average overall: 0.655208
+4. OGC Nice - Average overall: 0.640625
+5. Olympique Lyonnais - Average overall: 0.625000
+6. Girondins de Bordeaux - Average overall: 0.592708
+7. AS Saint-Etienne - Average overall: 0.591667
+8. Toulouse FC - Average overall: 0.581250
+9. FC Nantes - Average overall: 0.577083
+10. Angers SCO - Average overall: 0.569792
+11. Stade Rennais FC - Average overall: 0.567708
+12. En Avant de Guingamp - Average overall: 0.560417
+13. Montpellier Herault SC - Average overall: 0.553125
+14. SM Caen - Average overall: 0.546875
+15. Amiens SC Football - Average overall: 0.543750
+16. Dijon FCO - Average overall: 0.540625
+17. LOSC Lille - Average overall: 0.539583
+18. FC Metz - Average overall: 0.531250
+19. RC Strasbourg - Average overall: 0.515625
+20. ES Troyes AC - Average overall: 0.493750
+
+CLUBS FROM Italian Serie A, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. Juventus - Average overall: 0.795833
+2. Napoli - Average overall: 0.720833
+3. Roma - Average overall: 0.714583
+4. Milan - Average overall: 0.693750
+5. Inter - Average overall: 0.687500
+6. Lazio - Average overall: 0.680208
+7. Fiorentina - Average overall: 0.636458
+8. Torino - Average overall: 0.634375
+9. Sassuolo - Average overall: 0.609375
+10. Chievo Verona - Average overall: 0.600000
+11. Atalanta - Average overall: 0.598958
+12. Genoa - Average overall: 0.597917
+13. Bologna - Average overall: 0.596875
+14. Sampdoria - Average overall: 0.591667
+15. Udinese - Average overall: 0.588542
+16. Cagliari - Average overall: 0.565625
+17. Ferrara (SPAL) - Average overall: 0.537500
+18. Hellas Verona - Average overall: 0.534375
+19. Benevento Calcio - Average overall: 0.526042
+20. Crotone - Average overall: 0.493750
+
+CLUBS FROM English Premier League, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. Chelsea - Average overall: 0.779167
+2. Manchester United - Average overall: 0.770833
+3. Manchester City - Average overall: 0.760417
+4. Arsenal - Average overall: 0.753125
+5. Tottenham Hotspur - Average overall: 0.743750
+6. Liverpool - Average overall: 0.723958
+7. Everton - Average overall: 0.704167
+8. West Ham United - Average overall: 0.670833
+9. Southampton - Average overall: 0.651042
+10. Leicester City - Average overall: 0.647917
+11. Watford - Average overall: 0.646875
+12. West Bromwich Albion - Average overall: 0.638542
+13. Stoke City - Average overall: 0.636458
+14. Swansea City - Average overall: 0.622917
+15. Crystal Palace - Average overall: 0.616667
+16. Burnley - Average overall: 0.605208
+17. Bournemouth - Average overall: 0.605208
+18. Newcastle United - Average overall: 0.601042
+19. Brighton & Hove Albion - Average overall: 0.583333
+20. Huddersfield Town - Average overall: 0.550000
+
+CLUBS FROM Spanish Primera Division, SORTED BY THE SUM OF THEIR 20 BEST PLAYERS:
+1. Real Madrid CF - Average overall: 0.803125
+2. FC Barcelona - Average overall: 0.793750
+3. Atletico Madrid - Average overall: 0.763542
+4. Sevilla FC - Average overall: 0.698958
+5. Villarreal CF - Average overall: 0.690625
+6. Athletic Club de Bilbao - Average overall: 0.682292
+7. Real Sociedad - Average overall: 0.672917
+8. RCD Espanyol - Average overall: 0.657292
+9. Valencia CF - Average overall: 0.654167
+10. SD Eibar - Average overall: 0.635417
+11. RC Deportivo de La Coruna - Average overall: 0.632292
+12. UD Las Palmas - Average overall: 0.630208
+13. RC Celta de Vigo - Average overall: 0.626042
+14. Malaga CF - Average overall: 0.620833
+15. Real Betis Balompie - Average overall: 0.618750
+16. CD Leganes - Average overall: 0.601042
+17. Deportivo Alaves - Average overall: 0.598958
+18. Girona CF - Average overall: 0.587500
+19. Levante UD - Average overall: 0.584375
+20. Getafe CF - Average overall: 0.569792

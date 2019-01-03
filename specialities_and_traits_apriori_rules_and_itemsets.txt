@@ -1,0 +1,322 @@
+item: ('leadership_trait', 'avoids_using_weaker_foot_trait') , 0.005
+item: ('finesse_shot_trait', 'backs_into_player_trait') , 0.005
+item: ('injury_prone_trait', 'diver_trait') , 0.005
+item: ('long_shot_taker_trait', 'backs_into_player_trait') , 0.005
+item: ('leadership_trait', 'puncher_trait') , 0.005
+item: ('flair_trait', 'long_shot_taker_trait', 'injury_prone_trait') , 0.005
+item: ('long_shot_taker_trait', 'long_passer_trait', 'playmaker_trait') , 0.005
+item: ('flair_trait', 'selfish_trait', 'technical_dribbler_trait', 'acrobat_speciality') , 0.005
+item: ('crosser_speciality',) , 0.005
+item: ('skilled_dribbling_trait', 'dribbler_speciality') , 0.005
+item: ('injury_prone_trait', 'corner_specialist_trait') , 0.005
+item: ('power_free_kick_trait', 'power_header_trait') , 0.005
+item: ('selfish_trait', 'avoids_using_weaker_foot_trait') , 0.005
+item: ('long_shot_taker_trait', 'speedster_speciality') , 0.005
+item: ('target_forward_trait', 'finesse_shot_trait') , 0.005
+item: ('injury_prone_trait', 'technical_dribbler_trait', 'long_shot_taker_trait') , 0.005
+item: ('flair_trait', 'diver_trait', 'acrobat_speciality') , 0.005
+item: ('flair_trait', 'skilled_dribbling_trait', 'selfish_trait') , 0.005
+item: ('playmaker_speciality',) , 0.005
+item: ('skilled_dribbling_trait', 'backs_into_player_trait') , 0.005
+item: ('comes_for_crosses_trait', 'rushes_out_of_goal_trait') , 0.005
+item: ('team_player_trait', 'avoids_using_weaker_foot_trait') , 0.005
+item: ('technical_dribbler_trait', 'injury_free_trait') , 0.005
+item: ('flair_trait', 'power_free_kick_trait') , 0.005
+item: ('tackling_speciality',) , 0.006
+item: ('injury_prone_trait', 'early_crosser_trait') , 0.006
+item: ('team_player_trait', 'strength_speciality') , 0.006
+item: ('acrobat_speciality', 'avoids_using_weaker_foot_trait') , 0.006
+item: ('engine_speciality', 'dives_into_tackles_trait') , 0.006
+item: ('dribbler_speciality', 'playmaker_trait') , 0.006
+item: ('flair_trait', 'technical_dribbler_trait', 'speedster_speciality') , 0.006
+item: ('skilled_dribbling_trait', 'selfish_trait', 'tries_to_beat_defensive_line_trait') , 0.006
+item: ('flair_trait', 'chip_shot_trait') , 0.006
+item: ('long_shot_taker_trait', 'dribbler_speciality') , 0.006
+item: ('backs_into_player_trait', 'strength_speciality') , 0.006
+item: ('puncher_trait', 'cautious_with_crosses_trait') , 0.006
+item: ('long_passer_trait', 'early_crosser_trait') , 0.006
+item: ('long_shot_taker_trait', 'playmaker_trait', 'corner_specialist_trait') , 0.006
+item: ('technical_dribbler_trait', 'selfish_trait', 'acrobat_speciality') , 0.006
+item: ('long_shot_taker_trait', 'takes_finesse_free_kicks_trait', 'corner_specialist_trait') , 0.006
+item: ('selfish_trait', 'speedster_speciality') , 0.006
+item: ('long_shot_taker_trait', 'diver_trait') , 0.006
+item: ('diver_trait', 'selfish_trait') , 0.006
+item: ('skilled_dribbling_trait', 'long_throw_in_trait') , 0.006
+item: ('flair_trait', 'long_shot_taker_trait', 'takes_finesse_free_kicks_trait') , 0.006
+item: ('power_header_trait', 'aerial_threat_speciality', 'strength_speciality') , 0.006
+item: ('leadership_trait', 'team_player_trait', 'injury_free_trait') , 0.006
+item: ('flair_trait', 'selfish_trait', 'acrobat_speciality') , 0.006
+item: ('takes_finesse_free_kicks_trait', 'technical_dribbler_trait', 'playmaker_trait') , 0.006
+item: ('flair_trait', 'dribbler_speciality', 'technical_dribbler_trait', 'acrobat_speciality') , 0.006
+item: ('tactician_speciality',) , 0.006
+item: ('power_header_trait', 'backs_into_player_trait') , 0.006
+item: ('power_free_kick_trait', 'long_passer_trait') , 0.006
+item: ('team_player_trait', 'power_header_trait') , 0.006
+item: ('flair_trait', 'long_shot_taker_trait', 'acrobat_speciality') , 0.006
+item: ('technical_dribbler_trait', 'playmaker_trait', 'finesse_shot_trait') , 0.006
+item: ('flair_trait', 'long_shot_taker_trait', 'selfish_trait') , 0.006
+item: ('injury_free_trait', 'strength_speciality') , 0.007
+item: ('acrobat_speciality', 'takes_finesse_free_kicks_trait') , 0.007
+item: ('takes_finesse_free_kicks_trait', 'playmaker_trait', 'corner_specialist_trait') , 0.007
+item: ('flair_trait', 'acrobat_speciality', 'speedster_speciality') , 0.007
+item: ('long_shot_taker_trait', 'selfish_trait', 'technical_dribbler_trait') , 0.007
+item: ('selfish_trait', 'finesse_shot_trait') , 0.007
+item: ('long_throw_in_trait', 'long_shot_taker_trait') , 0.007
+item: ('tries_to_beat_defensive_line_trait', 'backs_into_player_trait') , 0.007
+item: ('long_shot_taker_trait', 'team_player_trait') , 0.007
+item: ('long_throw_in_trait', 'injury_free_trait') , 0.007
+item: ('flair_trait', 'skilled_dribbling_trait', 'tries_to_beat_defensive_line_trait') , 0.007
+item: ('flair_trait', 'skilled_dribbling_trait', 'technical_dribbler_trait') , 0.007
+item: ('saves_with_feet_trait',) , 0.007
+item: ('diver_trait', 'acrobat_speciality') , 0.007
+item: ('long_throw_in_trait', 'injury_prone_trait') , 0.007
+item: ('acrobat_speciality', 'playmaker_trait') , 0.007
+item: ('technical_dribbler_trait', 'backs_into_player_trait') , 0.007
+item: ('diver_trait', 'tries_to_beat_defensive_line_trait') , 0.007
+item: ('acrobat_speciality', 'finesse_shot_trait') , 0.007
+item: ('technical_dribbler_trait', 'dribbler_speciality', 'acrobat_speciality') , 0.007
+item: ('power_header_trait', 'tries_to_beat_defensive_line_trait') , 0.007
+item: ('avoids_using_weaker_foot_trait', 'dives_into_tackles_trait') , 0.007
+item: ('flair_trait', 'backs_into_player_trait') , 0.007
+item: ('long_throw_in_trait', 'avoids_using_weaker_foot_trait') , 0.007
+item: ('flair_trait', 'technical_dribbler_trait', 'avoids_using_weaker_foot_trait') , 0.007
+item: ('injury_free_trait', 'avoids_using_weaker_foot_trait') , 0.007
+item: ('playmaker_trait', 'avoids_using_weaker_foot_trait') , 0.007
+item: ('corner_specialist_trait', 'early_crosser_trait') , 0.007
+item: ('takes_finesse_free_kicks_trait', 'avoids_using_weaker_foot_trait') , 0.007
+item: ('flair_trait', 'long_shot_taker_trait', 'skilled_dribbling_trait') , 0.007
+item: ('long_throw_in_trait', 'dives_into_tackles_trait') , 0.008
+item: ('team_player_trait', 'long_passer_trait') , 0.008
+item: ('flair_trait', 'technical_dribbler_trait', 'diver_trait') , 0.008
+item: ('target_forward_trait', 'aerial_threat_speciality') , 0.008
+item: ('injury_prone_trait', 'finesse_shot_trait') , 0.008
+item: ('avoids_using_weaker_foot_trait', 'early_crosser_trait') , 0.008
+item: ('team_player_trait', 'dives_into_tackles_trait') , 0.008
+item: ('skilled_dribbling_trait', 'early_crosser_trait') , 0.008
+item: ('long_passer_trait', 'corner_specialist_trait') , 0.008
+item: ('long_shot_taker_trait', 'playmaker_trait', 'technical_dribbler_trait') , 0.008
+item: ('flair_trait', 'skilled_dribbling_trait', 'speedster_speciality') , 0.008
+item: ('injury_prone_trait', 'avoids_using_weaker_foot_trait') , 0.008
+item: ('injury_free_trait', 'engine_speciality') , 0.008
+item: ('long_shot_taker_trait', 'takes_finesse_free_kicks_trait', 'technical_dribbler_trait') , 0.008
+item: ('flair_trait', 'dribbler_speciality', 'acrobat_speciality') , 0.008
+item: ('giant_throw_in_trait',) , 0.008
+item: ('injury_free_trait', 'playmaker_trait') , 0.008
+item: ('selfish_trait', 'acrobat_speciality') , 0.008
+item: ('leadership_trait', 'playmaker_trait') , 0.008
+item: ('takes_finesse_free_kicks_trait', 'early_crosser_trait') , 0.008
+item: ('injury_prone_trait', 'selfish_trait') , 0.008
+item: ('puncher_trait', 'gk_long_throw_trait') , 0.008
+item: ('target_forward_trait', 'injury_prone_trait') , 0.008
+item: ('leadership_trait', 'strength_speciality') , 0.008
+item: ('comes_for_crosses_trait', 'gk_long_throw_trait') , 0.009
+item: ('injury_prone_trait', 'team_player_trait') , 0.009
+item: ('acrobat_speciality', 'tries_to_beat_defensive_line_trait') , 0.009
+item: ('skilled_dribbling_trait', 'finesse_shot_trait') , 0.009
+item: ('long_shot_taker_trait', 'injury_free_trait') , 0.009
+item: ('injury_prone_trait', 'takes_finesse_free_kicks_trait') , 0.009
+item: ('flair_trait', 'corner_specialist_trait') , 0.009
+item: ('long_passer_trait', 'strength_speciality') , 0.009
+item: ('long_passer_trait', 'takes_finesse_free_kicks_trait') , 0.009
+item: ('power_header_trait', 'injury_free_trait') , 0.009
+item: ('long_shot_taker_trait', 'engine_speciality') , 0.009
+item: ('strength_speciality', 'dives_into_tackles_trait') , 0.009
+item: ('long_shot_taker_trait', 'early_crosser_trait') , 0.009
+item: ('flair_trait', 'long_shot_taker_trait', 'playmaker_trait') , 0.009
+item: ('skilled_dribbling_trait', 'diver_trait') , 0.009
+item: ('flair_trait', 'skilled_dribbling_trait', 'acrobat_speciality') , 0.009
+item: ('flair_trait', 'technical_dribbler_trait', 'takes_finesse_free_kicks_trait') , 0.009
+item: ('takes_finesse_free_kicks_trait', 'long_shot_taker_trait', 'playmaker_trait') , 0.009
+item: ('technical_dribbler_trait', 'speedster_speciality') , 0.010
+item: ('injury_prone_trait', 'strength_speciality') , 0.010
+item: ('leadership_trait', 'long_shot_taker_trait') , 0.010
+item: ('injury_free_trait', 'long_passer_trait') , 0.010
+item: ('injury_prone_trait', 'long_passer_trait') , 0.010
+item: ('skilled_dribbling_trait', 'acrobat_speciality', 'speedster_speciality') , 0.010
+item: ('injury_free_trait', 'dives_into_tackles_trait') , 0.010
+item: ('power_header_trait', 'aerial_threat_speciality') , 0.010
+item: ('dribbler_speciality', 'acrobat_speciality') , 0.010
+item: ('rushes_out_of_goal_trait',) , 0.011
+item: ('long_shot_taker_trait', 'tries_to_beat_defensive_line_trait') , 0.011
+item: ('target_forward_trait', 'backs_into_player_trait') , 0.011
+item: ('flair_trait', 'technical_dribbler_trait', 'injury_prone_trait') , 0.011
+item: ('long_shot_taker_trait', 'acrobat_speciality') , 0.011
+item: ('long_shot_taker_trait', 'dives_into_tackles_trait') , 0.011
+item: ('injury_prone_trait', 'tries_to_beat_defensive_line_trait') , 0.011
+item: ('flair_trait', 'technical_dribbler_trait', 'dribbler_speciality') , 0.011
+item: ('target_forward_trait', 'power_header_trait', 'strength_speciality') , 0.012
+item: ('gk_up_for_corners_trait',) , 0.012
+item: ('leadership_trait', 'injury_prone_trait') , 0.012
+item: ('flair_trait', 'speedster_speciality') , 0.012
+item: ('long_throw_in_trait', 'early_crosser_trait') , 0.012
+item: ('flair_trait', 'technical_dribbler_trait', 'finesse_shot_trait') , 0.012
+item: ('technical_dribbler_trait', 'corner_specialist_trait') , 0.012
+item: ('leadership_trait', 'long_passer_trait') , 0.012
+item: ('takes_finesse_free_kicks_trait', 'finesse_shot_trait') , 0.012
+item: ('long_passer_trait', 'dives_into_tackles_trait') , 0.012
+item: ('long_shot_taker_trait', 'finesse_shot_trait') , 0.013
+item: ('skilled_dribbling_trait', 'tries_to_beat_defensive_line_trait', 'speedster_speciality') , 0.013
+item: ('power_header_trait', 'long_passer_trait') , 0.013
+item: ('flair_trait', 'diver_trait') , 0.013
+item: ('playmaker_trait', 'finesse_shot_trait') , 0.013
+item: ('technical_dribbler_trait', 'diver_trait') , 0.013
+item: ('team_player_trait', 'injury_free_trait') , 0.014
+item: ('comes_for_crosses_trait', 'puncher_trait') , 0.014
+item: ('leadership_trait', 'injury_free_trait') , 0.014
+item: ('injury_prone_trait', 'playmaker_trait') , 0.014
+item: ('aerial_threat_speciality', 'strength_speciality') , 0.014
+item: ('tries_to_beat_defensive_line_trait', 'finesse_shot_trait') , 0.014
+item: ('long_shot_taker_trait', 'selfish_trait') , 0.014
+item: ('leadership_trait', 'power_header_trait') , 0.014
+item: ('injury_prone_trait', 'power_header_trait') , 0.014
+item: ('technical_dribbler_trait', 'dribbler_speciality') , 0.015
+item: ('long_shot_taker_trait', 'avoids_using_weaker_foot_trait') , 0.015
+item: ('selfish_trait', 'tries_to_beat_defensive_line_trait') , 0.015
+item: ('acrobat_speciality', 'speedster_speciality') , 0.015
+item: ('flair_trait', 'dribbler_speciality') , 0.015
+item: ('tries_to_beat_defensive_line_trait', 'speedster_speciality') , 0.015
+item: ('flair_trait', 'avoids_using_weaker_foot_trait') , 0.015
+item: ('leadership_trait', 'dives_into_tackles_trait') , 0.015
+item: ('long_shot_taker_trait', 'corner_specialist_trait') , 0.015
+item: ('technical_dribbler_trait', 'tries_to_beat_defensive_line_trait') , 0.015
+item: ('skilled_dribbling_trait', 'technical_dribbler_trait') , 0.015
+item: ('power_header_trait', 'dives_into_tackles_trait') , 0.016
+item: ('flair_trait', 'takes_finesse_free_kicks_trait') , 0.016
+item: ('technical_dribbler_trait', 'avoids_using_weaker_foot_trait') , 0.017
+item: ('long_passer_trait', 'playmaker_trait') , 0.017
+item: ('cautious_with_crosses_trait',) , 0.017
+item: ('outside_foot_shot_trait',) , 0.017
+item: ('playmaker_trait', 'corner_specialist_trait') , 0.017
+item: ('chip_shot_trait',) , 0.018
+item: ('flair_trait', 'finesse_shot_trait') , 0.018
+item: ('flair_trait', 'technical_dribbler_trait', 'playmaker_trait') , 0.018
+item: ('skilled_dribbling_trait', 'avoids_using_weaker_foot_trait') , 0.018
+item: ('flair_trait', 'tries_to_beat_defensive_line_trait') , 0.019
+item: ('injury_prone_trait', 'dives_into_tackles_trait') , 0.020
+item: ('flair_trait', 'technical_dribbler_trait', 'selfish_trait') , 0.020
+item: ('dribbler_speciality',) , 0.020
+item: ('flair_trait', 'injury_prone_trait') , 0.020
+item: ('skilled_dribbling_trait', 'injury_prone_trait') , 0.020
+item: ('injury_prone_trait', 'long_shot_taker_trait') , 0.021
+item: ('power_free_kick_trait', 'long_shot_taker_trait') , 0.021
+item: ('aerial_threat_speciality',) , 0.021
+item: ('long_shot_taker_trait', 'long_passer_trait') , 0.021
+item: ('flair_trait', 'technical_dribbler_trait', 'acrobat_speciality') , 0.021
+item: ('gk_long_throw_trait',) , 0.021
+item: ('takes_finesse_free_kicks_trait', 'corner_specialist_trait') , 0.021
+item: ('skilled_dribbling_trait', 'selfish_trait') , 0.022
+item: ('flair_trait', 'long_shot_taker_trait', 'technical_dribbler_trait') , 0.022
+item: ('skilled_dribbling_trait', 'acrobat_speciality') , 0.022
+item: ('target_forward_trait', 'strength_speciality') , 0.023
+item: ('technical_dribbler_trait', 'takes_finesse_free_kicks_trait') , 0.024
+item: ('takes_finesse_free_kicks_trait', 'playmaker_trait') , 0.025
+item: ('injury_prone_trait', 'technical_dribbler_trait') , 0.025
+item: ('skilled_dribbling_trait', 'long_shot_taker_trait') , 0.026
+item: ('long_shot_taker_trait', 'takes_finesse_free_kicks_trait') , 0.027
+item: ('technical_dribbler_trait', 'finesse_shot_trait') , 0.029
+item: ('flair_trait', 'selfish_trait') , 0.030
+item: ('target_forward_trait', 'power_header_trait') , 0.031
+item: ('technical_dribbler_trait', 'acrobat_speciality') , 0.031
+item: ('flair_trait', 'acrobat_speciality') , 0.031
+item: ('comes_for_crosses_trait',) , 0.032
+item: ('flair_trait', 'playmaker_trait') , 0.033
+item: ('long_shot_taker_trait', 'playmaker_trait') , 0.033
+item: ('technical_dribbler_trait', 'selfish_trait') , 0.034
+item: ('leadership_trait', 'team_player_trait') , 0.034
+item: ('power_header_trait', 'strength_speciality') , 0.036
+item: ('engine_speciality',) , 0.036
+item: ('skilled_dribbling_trait', 'speedster_speciality') , 0.036
+item: ('backs_into_player_trait',) , 0.037
+item: ('puncher_trait',) , 0.037
+item: ('flair_trait', 'skilled_dribbling_trait') , 0.037
+item: ('technical_dribbler_trait', 'playmaker_trait') , 0.038
+item: ('diver_trait',) , 0.040
+item: ('skilled_dribbling_trait', 'tries_to_beat_defensive_line_trait') , 0.042
+item: ('power_free_kick_trait',) , 0.042
+item: ('flair_trait', 'long_shot_taker_trait') , 0.043
+item: ('long_shot_taker_trait', 'technical_dribbler_trait') , 0.047
+item: ('speedster_speciality',) , 0.048
+item: ('long_throw_in_trait',) , 0.053
+item: ('corner_specialist_trait',) , 0.054
+item: ('early_crosser_trait',) , 0.058
+item: ('acrobat_speciality',) , 0.064
+item: ('target_forward_trait',) , 0.065
+item: ('team_player_trait',) , 0.071
+item: ('finesse_shot_trait',) , 0.077
+item: ('selfish_trait',) , 0.078
+item: ('injury_free_trait',) , 0.079
+item: ('strength_speciality',) , 0.079
+item: ('takes_finesse_free_kicks_trait',) , 0.081
+item: ('long_passer_trait',) , 0.088
+item: ('dives_into_tackles_trait',) , 0.090
+item: ('avoids_using_weaker_foot_trait',) , 0.092
+item: ('leadership_trait',) , 0.095
+item: ('tries_to_beat_defensive_line_trait',) , 0.103
+item: ('power_header_trait',) , 0.108
+item: ('flair_trait', 'technical_dribbler_trait') , 0.111
+item: ('playmaker_trait',) , 0.114
+item: ('injury_prone_trait',) , 0.149
+item: ('skilled_dribbling_trait',) , 0.163
+item: ('long_shot_taker_trait',) , 0.180
+item: ('flair_trait',) , 0.197
+item: ('technical_dribbler_trait',) , 0.222
+
+------------------------ RULES:
+Rule: ('skilled_dribbling_trait', 'acrobat_speciality') ==> ('speedster_speciality',) , 0.453 0.010
+Rule: ('long_shot_taker_trait', 'selfish_trait') ==> ('flair_trait',) , 0.455 0.006
+Rule: ('long_shot_taker_trait', 'technical_dribbler_trait') ==> ('flair_trait',) , 0.458 0.022
+Rule: ('technical_dribbler_trait', 'playmaker_trait') ==> ('flair_trait',) , 0.462 0.018
+Rule: ('long_shot_taker_trait', 'selfish_trait') ==> ('technical_dribbler_trait',) , 0.470 0.007
+Rule: ('technical_dribbler_trait', 'dribbler_speciality') ==> ('acrobat_speciality',) , 0.471 0.007
+Rule: ('target_forward_trait',) ==> ('power_header_trait',) , 0.472 0.031
+Rule: ('playmaker_trait', 'finesse_shot_trait') ==> ('technical_dribbler_trait',) , 0.476 0.006
+Rule: ('flair_trait', 'avoids_using_weaker_foot_trait') ==> ('technical_dribbler_trait',) , 0.479 0.007
+Rule: ('flair_trait', 'speedster_speciality') ==> ('technical_dribbler_trait',) , 0.482 0.006
+Rule: ('team_player_trait',) ==> ('leadership_trait',) , 0.482 0.034
+Rule: ('acrobat_speciality',) ==> ('technical_dribbler_trait',) , 0.485 0.031
+Rule: ('power_free_kick_trait',) ==> ('long_shot_taker_trait',) , 0.488 0.021
+Rule: ('acrobat_speciality',) ==> ('flair_trait',) , 0.488 0.031
+Rule: ('aerial_threat_speciality',) ==> ('power_header_trait',) , 0.495 0.010
+Rule: ('flair_trait', 'long_shot_taker_trait') ==> ('technical_dribbler_trait',) , 0.498 0.022
+Rule: ('technical_dribbler_trait',) ==> ('flair_trait',) , 0.498 0.111
+Rule: ('target_forward_trait', 'strength_speciality') ==> ('power_header_trait',) , 0.509 0.012
+Rule: ('dribbler_speciality',) ==> ('acrobat_speciality',) , 0.516 0.010
+Rule: ('rushes_out_of_goal_trait',) ==> ('comes_for_crosses_trait',) , 0.520 0.005
+Rule: ('flair_trait', 'injury_prone_trait') ==> ('technical_dribbler_trait',) , 0.531 0.011
+Rule: ('flair_trait', 'playmaker_trait') ==> ('technical_dribbler_trait',) , 0.535 0.018
+Rule: ('flair_trait', 'dribbler_speciality') ==> ('acrobat_speciality',) , 0.535 0.008
+Rule: ('flair_trait', 'technical_dribbler_trait', 'dribbler_speciality') ==> ('acrobat_speciality',) , 0.537 0.006
+Rule: ('flair_trait', 'speedster_speciality') ==> ('acrobat_speciality',) , 0.554 0.007
+Rule: ('technical_dribbler_trait', 'diver_trait') ==> ('flair_trait',) , 0.562 0.008
+Rule: ('flair_trait',) ==> ('technical_dribbler_trait',) , 0.563 0.111
+Rule: ('flair_trait', 'takes_finesse_free_kicks_trait') ==> ('technical_dribbler_trait',) , 0.564 0.009
+Rule: ('long_shot_taker_trait', 'acrobat_speciality') ==> ('flair_trait',) , 0.566 0.006
+Rule: ('dribbler_speciality',) ==> ('flair_trait', 'technical_dribbler_trait') , 0.568 0.011
+Rule: ('flair_trait', 'diver_trait') ==> ('technical_dribbler_trait',) , 0.581 0.008
+Rule: ('technical_dribbler_trait', 'speedster_speciality') ==> ('flair_trait',) , 0.587 0.006
+Rule: ('technical_dribbler_trait', 'selfish_trait') ==> ('flair_trait',) , 0.588 0.020
+Rule: ('power_header_trait', 'aerial_threat_speciality') ==> ('strength_speciality',) , 0.592 0.006
+Rule: ('dribbler_speciality', 'acrobat_speciality') ==> ('flair_trait', 'technical_dribbler_trait') , 0.592 0.006
+Rule: ('selfish_trait', 'acrobat_speciality') ==> ('flair_trait', 'technical_dribbler_trait') , 0.615 0.005
+Rule: ('flair_trait', 'speedster_speciality') ==> ('skilled_dribbling_trait',) , 0.661 0.008
+Rule: ('aerial_threat_speciality',) ==> ('strength_speciality',) , 0.667 0.014
+Rule: ('flair_trait', 'selfish_trait') ==> ('technical_dribbler_trait',) , 0.667 0.020
+Rule: ('flair_trait', 'finesse_shot_trait') ==> ('technical_dribbler_trait',) , 0.667 0.012
+Rule: ('flair_trait', 'acrobat_speciality') ==> ('technical_dribbler_trait',) , 0.669 0.021
+Rule: ('dribbler_speciality', 'acrobat_speciality') ==> ('technical_dribbler_trait',) , 0.673 0.007
+Rule: ('technical_dribbler_trait', 'acrobat_speciality') ==> ('flair_trait',) , 0.673 0.021
+Rule: ('acrobat_speciality', 'speedster_speciality') ==> ('skilled_dribbling_trait',) , 0.676 0.010
+Rule: ('selfish_trait', 'acrobat_speciality') ==> ('technical_dribbler_trait',) , 0.718 0.006
+Rule: ('dribbler_speciality',) ==> ('technical_dribbler_trait',) , 0.737 0.015
+Rule: ('selfish_trait', 'acrobat_speciality') ==> ('flair_trait',) , 0.744 0.006
+Rule: ('dribbler_speciality',) ==> ('flair_trait',) , 0.747 0.015
+Rule: ('diver_trait', 'acrobat_speciality') ==> ('flair_trait',) , 0.758 0.005
+Rule: ('speedster_speciality',) ==> ('skilled_dribbling_trait',) , 0.759 0.036
+Rule: ('flair_trait', 'dribbler_speciality') ==> ('technical_dribbler_trait',) , 0.761 0.011
+Rule: ('flair_trait', 'dribbler_speciality', 'acrobat_speciality') ==> ('technical_dribbler_trait',) , 0.763 0.006
+Rule: ('technical_dribbler_trait', 'dribbler_speciality') ==> ('flair_trait',) , 0.771 0.011
+Rule: ('dribbler_speciality', 'acrobat_speciality') ==> ('flair_trait',) , 0.776 0.008
+Rule: ('flair_trait', 'selfish_trait', 'acrobat_speciality') ==> ('technical_dribbler_trait',) , 0.828 0.005
+Rule: ('tries_to_beat_defensive_line_trait', 'speedster_speciality') ==> ('skilled_dribbling_trait',) , 0.845 0.013
+Rule: ('technical_dribbler_trait', 'selfish_trait', 'acrobat_speciality') ==> ('flair_trait',) , 0.857 0.005
+Rule: ('technical_dribbler_trait', 'dribbler_speciality', 'acrobat_speciality') ==> ('flair_trait',) , 0.879 0.006
